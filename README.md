@@ -7,7 +7,7 @@ I'm updating the script to add real commands as FiveM allows and adding two more
 Also, the main reason is I want to backup this and also share with people who actually wants an updated and upgraded version of the original script.
 
 🎥 Preview: https://youtu.be/rYBs_i7tpks
-📁 Download: 
+📁 Download: https://github.com/pokameni/FC2DV
 
 # 🧰 Installation:
 - download the script from my GitHub,
